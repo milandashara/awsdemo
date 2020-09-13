@@ -1,0 +1,1 @@
+Demo product for AWS Lambda Practice
