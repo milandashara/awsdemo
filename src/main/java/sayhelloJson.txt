@@ -1,0 +1,3 @@
+{
+  "hello":"Hi, this is sample s3 test file to trigger my aws lambda"
+}
