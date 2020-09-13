@@ -1,1 +1,1 @@
-Demo product for AWS Lambda Practice
+Demo project for AWS Lambda Practice
